@@ -1,2 +1,2 @@
 # Python
-Python产库
+Python仓库
